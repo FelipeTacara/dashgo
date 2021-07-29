@@ -14,7 +14,7 @@ export function Pagination() {
                 <strong>0</strong> - <strong>10</strong> de <strong>100</strong> 
             </Box>
             <Stack
-                direction="row"
+                direction={["column", "row"]}
                 spacing="2"
             >
                 <PaginationItem number={1} isCurrent/>
