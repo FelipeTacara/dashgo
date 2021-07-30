@@ -74,18 +74,6 @@ export default function UserList() {
                                         30 de Agosto, 2021
                                     </Td>)}
                                     <Td>
-                                    <Button
-                                        as="a"
-                                        size="sm"
-                                        fontSize="sm"
-                                        colorScheme="purple"
-                                        leftIcon={<Icon
-                                        as={RiPencilLine}
-                                        fontSize="16"
-                                        />}
-                                    >
-                                        Editar
-                                    </Button>
                                     </Td>
                                 </Tr><Tr>
                                     <Td px={["4", "4", "6"]}>
@@ -101,18 +89,6 @@ export default function UserList() {
                                         30 de Agosto, 2021
                                     </Td>)}
                                     <Td>
-                                    <Button
-                                        as="a"
-                                        size="sm"
-                                        fontSize="sm"
-                                        colorScheme="purple"
-                                        leftIcon={<Icon
-                                        as={RiPencilLine}
-                                        fontSize="16"
-                                        />}
-                                    >
-                                        Editar
-                                    </Button>
                                     </Td>
                                 </Tr><Tr>
                                     <Td px={["4", "4", "6"]}>
@@ -128,18 +104,6 @@ export default function UserList() {
                                         30 de Agosto, 2021
                                     </Td>)}
                                     <Td>
-                                    <Button
-                                        as="a"
-                                        size="sm"
-                                        fontSize="sm"
-                                        colorScheme="purple"
-                                        leftIcon={<Icon
-                                        as={RiPencilLine}
-                                        fontSize="16"
-                                        />}
-                                    >
-                                        Editar
-                                    </Button>
                                     </Td>
                                 </Tr>
                             </Tbody>
